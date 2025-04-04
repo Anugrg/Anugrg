@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About Me
 Hi there! I'm Anubinda Gurung, a professional software developer with a passion for creating innovative solutions and learning all the time. Here's a bit about me:
 
-- 🔭 I’m currently planning work on LLM based career planner
+- 🔭 I’m currently planning work on LLM based career planner app
 - 🌱 I’m currently learning ReactJS, nodejs, pytorch, Langchain and any AI and ML technologies
 - 👯 I’m looking to collaborate on LLM projects
 
