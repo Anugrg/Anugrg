@@ -35,7 +35,8 @@ Feel free to reach out to me via Email or connect with me on LinkedIn.
 
 ## GitHub Stats
 [![My GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anugrg)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrg)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrg&langs_count=5&theme=tokyonight)]()
+
 
 ## Connect with Me
 [![LinkedIn] (https://www.linkedin.com/in/anubinda-gurung-2b2960b5/)]()
