@@ -24,7 +24,7 @@ Hi there! I'm Anubinda Gurung, a professional software developer with a passion 
 - 👯 I’m looking to collaborate on LLM projects
 
 - 📫 How to reach me: grg.jomle@gmail.com
-- ⚡ Fun fact: []
+
 
 ## Skills
 - **Languages:** python, Javascript, HTML, CSS, SQL
