@@ -33,7 +33,5 @@ Hi there! I'm Anubinda Gurung, a professional software developer with a passion 
 ## Contact
 Feel free to reach out to me via Email or connect with me on LinkedIn.
 
-## GitHub Stats
-[![My GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anugrg)]()
 
 
