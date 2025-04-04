@@ -34,12 +34,9 @@ Hi there! I'm Anubinda Gurung, an improving software developer with a passion fo
 Feel free to reach out to me via Email or connect with me on LinkedIn.
 
 ## GitHub Stats
-![Your GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anugrg)
+[![My GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anugrg)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrg)]()
 
-## Top Languages
-- Python
-- Javascript
-- SQL
 ## Connect with Me
-![LinkedIn] (https://www.linkedin.com/in/anubinda-gurung-2b2960b5/)
+[![LinkedIn] (https://www.linkedin.com/in/anubinda-gurung-2b2960b5/)]()
 
