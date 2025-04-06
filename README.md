@@ -21,7 +21,7 @@ I'm Anubinda Gurung, a professional software developer with a passion for creati
 
 - 🔭 I’m currently building a LLM powere web application. 
 - 🌱 I’m currently learning ReactJS, nodeJS, fastAPI, langchain, pytorch and many more.
-- 👯 I’m looking to collaborate on ML and AI projects to upskill.
+- 👯 I’m looking to collaborate on ML and AI projects to upskill and also make something useful.
 
 - 📫 How to reach me: grg.jomle@gmail.com
 
