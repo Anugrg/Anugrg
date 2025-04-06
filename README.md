@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Anubinda Gurung
 
 ## About Me
-I'm Anubinda Gurung, a professional software developer with a passion for creating innovative solutions with deep passion and curiosity for all things tech. Here's a bit about me:
+I'm Anubinda Gurung, a professional software developer with solid experience in creating web applications by working on the whole stack. I have a burgeoning interest in ML and AI and currently working to upskill in that domain. I possess research experience in ML and AI applications from my part time stint as a research assistant.
 
 - 🔭 I’m currently building a LLM powere web application. 
 - 🌱 I’m currently learning ReactJS, nodeJS, fastAPI, langchain, pytorch and many more.
