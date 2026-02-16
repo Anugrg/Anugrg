@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Anubinda Gurung
 
 ## About Me
-I'm Anubinda Gurung, a human being with good amount of experience in building web applications. I am currently dabbling in ML and AI.
+A human being with a good amount of experience building web applications. I am currently dabbling in ML and AI.
 
 - 🔭 I’m looking to build an AI application (or get AI do it for me ;)). 
 - 🌱 Always looking to learn and grow. 
