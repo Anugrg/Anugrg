@@ -21,15 +21,14 @@ Versatile software engineer with a diverse practical experience that includes bu
 
 - 🔭 Working on developing safe and reliable enterprise agentic systems 
 - 🌱 Always looking to learn and grow. 
-- 👯 Collaboration is the language of success.
+- 👯 Collaboration and discipline are the secret of success.
 
 - 📫 How to reach me: grg.jomle@gmail.com
 
-
 ## Skills
-- **Languages:** python, Javascript, HTML, CSS, SQL, bit of C# too
-- **Frameworks:** Django, JQuery, Bootstrap, TailwindCSS, Pyside6
-- **Tools:** numpy, Postgresql, MS SQL, Tensorflow, Matplotlib, pandas
+- **Languages:** Python, Javascript, HTML, CSS, SQL, C# 
+- **Frameworks:** Fastapi, Django, JQuery, Bootstrap, TailwindCSS, Pyside6
+- **Tools:** Polars, Numpy, Postgresql, MS SQL, Tensorflow, Matplotlib, Redis, Kubernetes, Docker, Podman
 ## Contact
 Feel free to reach out to me via Email or connect with me on LinkedIn.
 
