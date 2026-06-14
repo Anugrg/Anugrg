@@ -27,8 +27,8 @@ Versatile software engineer with a diverse practical experience that includes bu
 
 ## Skills
 - **Languages:** Python, Javascript, HTML, CSS, SQL, C# 
-- **Frameworks:** Fastapi, Django, JQuery, Bootstrap, TailwindCSS, Pyside6
-- **Tools:** Polars, Numpy, Postgresql, MS SQL, Tensorflow, Matplotlib, Redis, Kubernetes, Docker, Podman
+- **Frameworks:** FastAPI, Django, JQuery, Bootstrap, TailwindCSS, Pyside6
+- **Tools:** Polars, Numpy, Postgresql, MS SQL, Tensorflow, Matplotlib, Redis, Kubernetes, Docker, Podman, redshift, Jira, confluence
 ## Contact
 Feel free to reach out to me via Email or connect with me on LinkedIn.
 
