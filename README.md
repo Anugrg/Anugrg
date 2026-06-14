@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # Anubinda Gurung
 
 ## About Me
-A human being with a good amount of experience building web applications. I am currently dabbling in ML and AI.
+Versatile software engineer with a diverse practical experience that includes building applications for weather visualization and analytics, automation of roll paper movement and measurement, safety system with smart helmets and hooks, warehouse management and ETL data pipelines. I have also done machine learning projects and currently learning and developing agentic systems for my work.
 
-- 🔭 I’m looking to build an AI application (or get AI do it for me ;)). 
+- 🔭 Working on developing safe and reliable enterprise agentic systems 
 - 🌱 Always looking to learn and grow. 
 - 👯 Collaboration is the language of success.
 
