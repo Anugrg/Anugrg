@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Anubinda Gurung
 
 ## About Me
-Versatile software engineer with a diverse practical experience that includes building applications for weather visualization and analytics, automation of roll paper movement and measurement, safety system with smart helmets and hooks, warehouse management and ETL data pipelines. I have also done machine learning projects and currently learning and developing agentic systems for my work.
+A software engineer with a diverse practical experience that includes building applications for weather visualization and analytics, automation of roll paper movement and measurement, safety system with smart helmets and hooks, warehouse management and ETL data pipelines. I have also done machine learning projects and currently working agentic system.
 
 - 🔭 Working on developing safe and reliable enterprise agentic systems 
 - 🌱 Always looking to learn and grow. 
